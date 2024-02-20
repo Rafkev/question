@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Code Snippet
-Description: Make chekout field required
+Description: Make checkout field required
 Version: 1.0
 Author: Soldan3
 */
